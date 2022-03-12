@@ -1,0 +1,10 @@
+Sistem 220V AC 50Hz Türkiye ev şebeke bağlantısı ile çalışabilmektedir.
+Sistemden kullanıcıya; kullanabileceği 12V DC ve 5V DC güç çıkışları vardır.
+Sistem USB arayüzü ile bilgisayara bağlanabilir ve veri aktarabilir.
+Sistem gerçek zamanlı saat bilgisini kullanıcıya aktarabilmektedir.
+Sistem ortam sıcaklık verisini anlık olarak kullanıcıya aktarabilmelidir.
+Bir hareket algılandığında sistem kullanıcıya veri gönderebilmektedir.
+Bir hareket algılandığında kullanıcı isterse sesli veya görüntülü uyarı alabilecektir.
+Sistem hareket algılanacak ortamda güvenlik kamerası görünümüne sahiptir.
+Sistem Wi-fi özelliği ile de tüm verileri kullanıcıya gönderebilecektir.
+Kullanıcı isterse işlemci içerisinde koşan yazılıma müdahale edebilecektir.
